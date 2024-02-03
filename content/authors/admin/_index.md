@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 雨來
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Yulai
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yulai
+last_name: Huang
 
 # Status emoji
 status:
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
